@@ -1,6 +1,6 @@
 import tkinter as tk
 
-# Functions 
+# Functions to make the calculator work
 # ========================================================================================
 def deposit():
     try:
